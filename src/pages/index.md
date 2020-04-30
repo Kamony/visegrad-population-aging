@@ -12,10 +12,6 @@ mainpitch:
     Poland and Slovakia through Visegrad Grants from International
     Visegrad Fund. The mission of the fund is to advance ideas for
     sustainable regional cooperation in Central Europe.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -67,4 +63,23 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
+# Nadpis 1
+
+text
+
+## Podnadpis
+
+text text
+
+* seznam
+
+odkaz na [seznam](www.seznam.cz).
+
+# Nadpis 2
+
+Pavlina je ale zatracene peknej pes...
