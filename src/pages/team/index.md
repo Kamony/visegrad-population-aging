@@ -3,9 +3,11 @@ title: Research Team
 members:
   - name: EF JCU CZ
     text: |-
+      Spolupracuji :
+
       * Nikola
       * Erzika
-      * Jorika
+      * [Jorika](www.facebook.com)
     image: /img/blog-index.jpg
   - name: Rodina
     text: |-
