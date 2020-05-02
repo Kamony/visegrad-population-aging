@@ -9,9 +9,8 @@ members:
     image: /img/blog-index.jpg
   - name: Rodina
     text: |-
-      Jirin
-      Mama
-      Pavlinka
-      Skrubrt
+      * Jirin Mama
+      * Pavlina
+      * Skrubrt
     image: /img/chemex.jpg
 ---
