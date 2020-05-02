@@ -1,5 +1,6 @@
 ---
 title: Research Team
+templateKey: team-page
 members:
   - name: EF JCU CZ
     text: |-

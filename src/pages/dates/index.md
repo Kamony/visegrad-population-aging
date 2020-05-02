@@ -1,4 +1,5 @@
 ---
+templateKey: dates-page
 title: Important Dates
 dates:
   - date: 2020-05-21T20:32:25.960Z

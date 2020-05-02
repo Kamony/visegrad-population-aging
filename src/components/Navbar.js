@@ -3,6 +3,31 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
+export const NavbarItems = () => (<>
+  <Link to="/" className="navbar-item">
+    Home
+  </Link>
+  <Link className="navbar-item" to="/about">
+    About
+  </Link>
+  <Link className="navbar-item" to="/team">
+    Research Team
+  </Link>
+  <Link className="navbar-item" to="/dates">
+    Important Dates
+  </Link>
+  <Link className="navbar-item" to="/blog">
+    Blog
+  </Link>
+  <Link className="navbar-item" to="/contact">
+    Contact
+  </Link>
+  <Link className="navbar-item" to="/contact/examples">
+    Form Examples
+  </Link>
+</>);
+
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -57,24 +82,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link to="/" className="navbar-item">
-                Home
-              </Link>
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
+              <NavbarItems/>
             </div>
           </div>
         </div>

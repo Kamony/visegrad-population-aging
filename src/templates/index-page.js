@@ -20,51 +20,23 @@ export const IndexPageTemplate = ({ title, subheading, mainpitch, posts }) => (
         <div className="section">
           <div className="content">
             <div className="columns">
-              <div className="column is-2 is-12-mobile">
+              <div className="column">
                 <a href={"https://www.visegradfund.org"} target={"_blank"}>
                   <img
-                    style={{
-                      height: "auto",
-                      width: "auto",
-                    }}
                     src={
                       "https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/visegradfund.org/uploads/2018/01/visegrad_fund_logo_supported-by_blue_800px.jpg"
                     }
+                    style={{
+                      maxHeight: 250
+                    }}
                     alt={"visegrad-logo"}
                   />
                 </a>
               </div>
-              <div className="column is-10">
-                <h3 className="subtitle">{mainpitch.description}</h3>
+              <div className="column">
+                <div className="subtitle has-text-centered-tablet">{mainpitch.description}</div>
               </div>
             </div>
-            {/*<div className="columns">*/}
-            {/*  <div className="column is-12">*/}
-            {/*    <h3 className="has-text-weight-semibold is-size-2">*/}
-            {/*      {heading}*/}
-            {/*    </h3>*/}
-            {/*    <p>{description}</p>*/}
-            {/*  </div>*/}
-            {/*</div>*/}
-            {/*<Features gridItems={intro.blurbs} />*/}
-            {/*<div className="columns">*/}
-            {/*  <div className="column is-12 has-text-centered">*/}
-            {/*    <Link className="btn" to="/products">*/}
-            {/*      See all products*/}
-            {/*    </Link>*/}
-            {/*  </div>*/}
-            {/*</div>*/}
-            {/*<div className="column is-12">*/}
-            {/*  <h3 className="has-text-weight-semibold is-size-2">*/}
-            {/*    Latest stories*/}
-            {/*  </h3>*/}
-            {/*  <BlogRoll />*/}
-            {/*  <div className="column is-12 has-text-centered">*/}
-            {/*    <Link className="btn" to="/blog">*/}
-            {/*      Read more*/}
-            {/*    </Link>*/}
-            {/*  </div>*/}
-            {/*</div>*/}
           </div>
         </div>
       </div>
@@ -73,9 +45,7 @@ export const IndexPageTemplate = ({ title, subheading, mainpitch, posts }) => (
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <div className="section">
-              <HTMLContent className="content" content={posts} />
-            </div>
+            <HTMLContent className="content" content={posts} />
           </div>
         </div>
       </div>
@@ -97,7 +67,7 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark;
-
+  console.log({html});
   return (
     <Layout>
       <IndexPageTemplate

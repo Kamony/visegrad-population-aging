@@ -1,12 +1,12 @@
-//@import "~bulma/sass/utilities/initial-variables"
+@import "~bulma/sass/utilities/initial-variables"
 //
 //// Config vars
 //// Kaldi logo brand color: #FD461E
 //$kaldi-red: #D64000
 //$kaldi-red-invert: #fff
 //
-//$primary: $kaldi-red
-//$primary-invert: $kaldi-red-invert
+$primary: $turquoise
+$primary-invert: $white
 //$body-color: #333
 //$black: #2b2523
 //
@@ -114,27 +114,77 @@
 //
 //// blog roll
 //.blog-list-item.is-featured
-//  background-color: #d6400033;
+//  background-color: #d6400033
 //.blog-list-item header
-//  display: flex;
-//  margin-bottom: 1em;
+//  display: flex
+//  margin-bottom: 1em
 //.blog-list-item .featured-thumbnail
-//  flex-basis: 35%;
-//  margin: 0 1.5em 0 0;
+//  flex-basis: 35%
+//  margin: 0 1.5em 0 0
 //
 //
 @import "~bulma"
-//
-//
+
+.page-header-tile
+  padding: 1rem
+  box-shadow: 0.5rem 0 0 $primary, -0.5rem 0 0 $primary
+  background-color: $primary
+  color: $primary-invert
+
+.card.is-horizontal
+  flex-direction: row
+  display: flex
+  flex-basis: 50ex
+  flex-grow: 0
+  flex-shrink: 1
+  box-shadow: none
+
+
+.card.is-horizontal .card-image
+  align-self: center
+
+
+.card.is-horizontal .image
+  min-height: 100%
+
+
+.card.is-horizontal .card-content
+  flex: 1
+
+
+.card.is-horizontal .card-content
+  padding-left: 1em
+  padding-top: 0
+  padding-bottom: 0
+  font-size: 0.8em
+
+
+.card.is-horizontal
+  ul
+    list-style: none
+    margin: 0
+
+
+  .is-divider
+    margin-top: 1.5rem
+    margin-bottom: 1rem
+
+.custom-border
+  border: 2px solid black
+
+a:link
+  text-decoration: none
+  color: $text
+
 // responsiveness
 //+tablet-only
 //  .blog-list-item .featured-thumbnail
-//    flex-basis: 50%;
+//    flex-basis: 50%
 //
 //+mobile
 //  .blog-list-item header
 //    display: block
 //  .blog-list-item .featured-thumbnail
-//    text-align: center;
-//    max-width: 70%;
-//    margin: 0 0 1em;
+//    text-align: center
+//    max-width: 70%
+//    margin: 0 0 1em
