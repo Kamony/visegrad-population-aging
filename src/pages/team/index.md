@@ -1,10 +1,11 @@
 ---
+title: Research Team
 members:
   - name: EF JCU CZ
     text: |-
-      Nikola Soukupova
-      Pavlina
-      Jane H
+      * Nikola
+      * Erzika
+      * Jorika
     image: /img/blog-index.jpg
   - name: Rodina
     text: |-
