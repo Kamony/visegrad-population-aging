@@ -6,4 +6,11 @@ members:
       Pavlina
       Jane H
     image: /img/blog-index.jpg
+  - name: Rodina
+    text: |-
+      Jirin
+      Mama
+      Pavlinka
+      Skrubrt
+    image: /img/chemex.jpg
 ---
