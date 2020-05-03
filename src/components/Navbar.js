@@ -1,7 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import {Link} from 'gatsby'
 
 export const NavbarItems = () => (<>
   <Link to="/" className="navbar-item">
@@ -13,17 +11,11 @@ export const NavbarItems = () => (<>
   <Link className="navbar-item" to="/team">
     Research Team
   </Link>
+  <Link className="navbar-item" to="/activities">
+    Activities
+  </Link>
   <Link className="navbar-item" to="/dates">
     Important Dates
-  </Link>
-  <Link className="navbar-item" to="/blog">
-    Blog
-  </Link>
-  <Link className="navbar-item" to="/contact">
-    Contact
-  </Link>
-  <Link className="navbar-item" to="/contact/examples">
-    Form Examples
   </Link>
 </>);
 

@@ -1,6 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
+import {PageHeader} from "../components/PageHeader";
 
 const DatesPage = ({ data }) => {
   const {
@@ -8,9 +9,7 @@ const DatesPage = ({ data }) => {
   } = data;
   return (
     <Layout>
-      <h2 className="has-text-weight-bold is-size-1 is-medium is-primary page-header-tile">
-        {frontmatter.title}
-      </h2>
+      <PageHeader title={frontmatter.title} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">

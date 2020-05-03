@@ -55,6 +55,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-page"}
           - {label: "Title", name: "title", widget: "string", default: "Research Team"}
           - {label: Members, name: members, widget: list, fields: [{label: Name, name: name, widget: text}, {label: Text, name: text, widget: markdown}, {label: Image, name: image, widget: image}, {label: Url, name: url, widget: text}]}
+      - file: "src/pages/activities/index.md"
+        label: "Activities Page"
+        name: "activities"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activity-page"}
+          - {label: "Title", name: "title", widget: "string", default: "Activites"}
+          - {label: Activites, name: activities, widget: list, fields: [{label: Name, name: name, widget: text}, {label: Text, name: text, widget: markdown}, {label: Image, name: image, widget: image}]}
       - file: "src/pages/dates/index.md"
         label: "Important dates"
         name: "dates"

@@ -3,15 +3,14 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import {PageHeader} from "../components/PageHeader";
 
 export const SimplePostsTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <>
-      <h2 className="has-text-weight-bold is-size-1 page-header-tile">
-        {title}
-      </h2>
+      <PageHeader title={title} />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">

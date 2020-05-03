@@ -1,19 +1,16 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
 import {NavbarItems} from "./Navbar";
 
 const Footer = class extends React.Component {
   render() {
+    const currentYear = new Date().getFullYear();
     return (
       <footer className="footer has-background-grey-dark">
-        <div className="content has-text-centered">
-          <div className="container">
-            <div>created by Kamony copy</div>
-          </div>
+        <div className="content has-text-centered has-text-white-bis">
+            {/*<NavbarItems/>*/}
+            <div className="has-text-white-bis">created by Kamony</div>
+            <div className="has-text-white-bis">&copy; {currentYear}</div>
+
         </div>
       </footer>
     )

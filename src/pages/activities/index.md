@@ -1,4 +1,5 @@
 ---
+templateKey: activities-page
 title: Activities
 activities:
   - name: workgroup 1

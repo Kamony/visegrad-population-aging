@@ -27,14 +27,14 @@ export const IndexPageTemplate = ({ title, subheading, mainpitch, posts }) => (
                       "https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/visegradfund.org/uploads/2018/01/visegrad_fund_logo_supported-by_blue_800px.jpg"
                     }
                     style={{
-                      maxHeight: 250
+                      maxHeight: 200
                     }}
                     alt={"visegrad-logo"}
                   />
                 </a>
               </div>
               <div className="column">
-                <div className="subtitle has-text-centered-tablet">{mainpitch.description}</div>
+                <div className="subtitle has-text-centered-mobile">{mainpitch.description}</div>
               </div>
             </div>
           </div>
