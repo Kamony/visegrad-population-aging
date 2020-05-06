@@ -3,7 +3,7 @@ templateKey: dates-page
 title: Important Dates
 dates:
   - date: 2020-05-21T20:32:25.960Z
-    name: Vareni
-  - date: 2020-10-21T20:32:45.418Z
-    name: Prani
+    name: International Workshop in Ceske Budejovice
+    startDate: 2020-11-05T17:54:11.879Z
+    endDate: 2020-11-06T17:54:11.931Z
 ---
