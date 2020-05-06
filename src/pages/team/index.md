@@ -13,7 +13,8 @@ members:
       * Markéta Adamová
     image: /img/8b756676-51f0-47b8-a599-3762294ce140.jpeg
     url: https://ef.jcu.cz
-  - name: Rodina
+  - name: Slovak University of Agriculture in Nitra, Faculty of Economics and
+      Management
     text: |-
       * Jirin Mama
       * Pavlina
