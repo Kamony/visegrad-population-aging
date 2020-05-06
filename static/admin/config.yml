@@ -73,8 +73,13 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: text}
-              - label: Date
-                name: date
+              - label: "Start Date"
+                name: startDate
+                widget: "datetime"
+                dateFormat: "DD.MM.YYYY"
+                timeFormat: false
+              - label: "End Date"
+                name: endDate
                 widget: "datetime"
                 dateFormat: "DD.MM.YYYY"
                 timeFormat: false

@@ -1,9 +1,16 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import {PageHeader} from "../components/PageHeader";
+import { PageHeader } from "../components/PageHeader";
 
-const DatesPage = ({ data }) => {
+const DatesPage = ({data}) => {
+
+  const endDateString = (dateString) => {
+    if (!dateString) return null;
+
+    return ` - ${dateString}`;
+  };
+
   const {
     markdownRemark: { frontmatter },
   } = data;
@@ -26,15 +33,13 @@ const DatesPage = ({ data }) => {
                     <tr key={index}>
                       <td>{date.name}</td>
                       <td>
-                        {new Date(
-                          frontmatter.dates[0].date
-                        ).toLocaleDateString()}
+                        {new Date(date.startDate).toLocaleDateString()}
+                        {endDateString(new Date(date.endDate).toLocaleDateString())}
                       </td>
                     </tr>
                   ))}
                 </tbody>
               </table>
-              {/*{ new Date(frontmatter.dates[0].date)}*/}
             </div>
           </div>
         </div>
@@ -53,7 +58,8 @@ export const datesPageQuery = graphql`
         title
         dates {
           name
-          date
+          startDate
+          endDate
         }
       }
     }
