@@ -18,6 +18,25 @@ export const SimplePostsTemplate = ({ title, content, contentComponent }) => {
               <div className="section">
                 <PageContent className="content" content={content} />
               </div>
+              <div className="section">
+                <div className={"columns"}>
+                  <div className={"column"}>
+                    <figure className="image is-4by3">
+                      <img src={"img/1.jpg"} alt={""}/>
+                    </figure>
+                  </div>
+                  <div className={"column"}>
+                    <figure className="image is-4by3">
+                      <img src={"img/2.jpg"} alt={""}/>
+                    </figure>
+                  </div>
+                  <div className={"column"}>
+                    <figure className="image is-4by3">
+                      <img src={"img/3.jpg"} alt={""}/>
+                    </figure>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
