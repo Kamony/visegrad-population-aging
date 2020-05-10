@@ -18,8 +18,10 @@ members:
     text: |-
       * Zuzana Poláková
       * Eva Matejková
-    image: /img/chemex.jpg
-    url: https://seznam.cz
+      * Jozef Palkovič
+      * Miriam Pietriková
+    image: /img/android-chrome-192x192.png
+    url: fem.uniag.sk/en/
   - name: Comenius University in Bratislava, Faculty of Natural Sciences
     image: /img/fotka_prif-uk.jpg
     text: "* Marcela Káčerová"
