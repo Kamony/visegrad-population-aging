@@ -16,13 +16,12 @@ members:
   - name: Slovak University of Agriculture in Nitra, Faculty of Economics and
       Management
     text: |-
-      * Jirin Mama
-      * Pavlina
-      * Skrubrt
+      * Zuzana Poláková
+      * Eva Matejková
     image: /img/chemex.jpg
     url: https://seznam.cz
   - name: Comenius University in Bratislava, Faculty of Natural Sciences
     image: /img/fotka_prif-uk.jpg
-    text: "* Mgr. Marcela Káčerová, Ph.D."
+    text: "* Marcela Káčerová"
     url: https://fns.uniba.sk/en
 ---
