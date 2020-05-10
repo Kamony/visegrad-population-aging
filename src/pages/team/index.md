@@ -20,10 +20,14 @@ members:
       * Eva Matejková
       * Jozef Palkovič
       * Miriam Pietriková
-    image: /img/android-chrome-192x192.png
+    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
     url: fem.uniag.sk/en/
   - name: Comenius University in Bratislava, Faculty of Natural Sciences
     image: /img/fotka_prif-uk.jpg
     text: "* Marcela Káčerová"
     url: https://fns.uniba.sk/en
+  - name: Częstochowa University of Technology, Faculty od Management
+    url: http://www.zim.pcz.czest.pl/en/
+    text: "* Andrzej Skibiński"
+    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
 ---
