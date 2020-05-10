@@ -30,4 +30,8 @@ members:
     url: http://www.zim.pcz.czest.pl/en/
     text: "* Andrzej Skibiński"
     image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
+  - name: University of Debrecen, Faculty of Economics and Business
+    text: Members
+    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
+    url: econ.unideb.hu/en
 ---
