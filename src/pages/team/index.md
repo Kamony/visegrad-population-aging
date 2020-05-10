@@ -21,4 +21,8 @@ members:
       * Skrubrt
     image: /img/chemex.jpg
     url: https://seznam.cz
+  - name: Comenius University in Bratislava, Faculty of Natural Sciences
+    image: /img/fotka_prif-uk.jpg
+    text: "* Mgr. Marcela Káčerová, Ph.D."
+    url: https://fns.uniba.sk/en
 ---
