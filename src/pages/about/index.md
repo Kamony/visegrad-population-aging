@@ -5,9 +5,7 @@ title: About the Project
 ---
 ### Project
 
-Project Visegrad ID **22010034** titled "*Are countries of the Visegrad Group (V4) ready for the consequences of population aging*?" is financed by the Visegrad International Fund.
-
-The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
+The project titled "*Are countries of the Visegrad Group (V4) ready for the consequences of population aging*?" is financed by the Visegrad International Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
 
 The grantee is University of South Bohemia in České Budějovice, Faculty of Economics.
 
