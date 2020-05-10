@@ -3,7 +3,7 @@ templateKey: activities-page
 title: Activities
 activities:
   - name: The international workshop of project partners in the Czech Republic
-      (České Budějovice), České Budějovice, CZ
+      (České Budějovice)
     text: >-
       The international two-day workshop in Czechia (České Budějovice) with
       project partners. Comparison of the research, presentation of the research
