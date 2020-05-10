@@ -68,18 +68,4 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 ---
-# Nadpis 1
-
-text
-
-## Podnadpis
-
-text text
-
-* seznam
-
-odkaz na [seznam](www.seznam.cz).
-
-# Nadpis 2
-
-Pavlina je ale zatracene peknej pes...
+The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
