@@ -20,7 +20,7 @@ members:
       * Eva Matejková
       * Jozef Palkovič
       * Miriam Pietriková
-    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
+    image: /img/img_20200416_153825.jpg
     url: fem.uniag.sk/en/
   - name: Comenius University in Bratislava, Faculty of Natural Sciences
     image: /img/fotka_prif-uk.jpg
