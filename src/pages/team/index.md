@@ -30,7 +30,7 @@ members:
   - name: Częstochowa University of Technology, Faculty of Management
     url: http://www.zim.pcz.czest.pl/en/
     text: "* Andrzej Skibiński"
-    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
+    image: /img/faculty-of-management-.jpg
   - name: University of Debrecen, Faculty of Economics and Business
     text: Members
     image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
