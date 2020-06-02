@@ -32,7 +32,7 @@ members:
     text: "* Andrzej Skibiński"
     image: /img/faculty-of-management-.jpg
   - name: University of Debrecen, Faculty of Economics and Business
-    text: Members
+    text: Will be announced later
     image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
     url: https://econ.unideb.hu/en
 ---
