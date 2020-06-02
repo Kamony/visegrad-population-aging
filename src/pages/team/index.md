@@ -34,5 +34,5 @@ members:
   - name: University of Debrecen, Faculty of Economics and Business
     text: Members
     image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
-    url: econ.unideb.hu/en
+    url: https://econ.unideb.hu/en
 ---
