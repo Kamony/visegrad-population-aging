@@ -33,6 +33,6 @@ members:
     image: /img/faculty-of-management-.jpg
   - name: University of Debrecen, Faculty of Economics and Business
     text: Will be announced later
-    image: /img/nathan-dumlao-ewgmqs2tmji-unsplash.jpg
+    image: /img/facultyofeconomicsunideb1.jpg
     url: https://econ.unideb.hu/en
 ---
