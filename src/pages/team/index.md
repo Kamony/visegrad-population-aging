@@ -32,7 +32,12 @@ members:
     text: "* Andrzej Skibiński"
     image: /img/faculty-of-management-.jpg
   - name: University of Debrecen, Faculty of Economics and Business
-    text: Will be announced later
+    text: |-
+      * Karoli Pető
+      * Zoltán Szakály
+      * Marietta Kiss
+      * Virág Ágnes Kiss
+      * János Szenderák
     image: /img/facultyofeconomicsunideb1.jpg
     url: https://econ.unideb.hu/en
 ---
