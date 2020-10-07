@@ -11,7 +11,7 @@ activities:
       outputs. Discussion with appropriate stakeholders and other experts.
 
 
-      November 5 - 6, 2020
+      May 21 - 22, 2021
     image: /img/headway-f2krf_qfcqw-unsplash.jpg
   - name: 'The common monograph "Are countries of the Visegrad Group (V4) ready for
       the consequences of population aging?" '
