@@ -33,7 +33,7 @@ members:
     image: /img/faculty-of-management-.jpg
   - name: University of Debrecen, Faculty of Economics and Business
     text: |-
-      * Karoli Pető
+      * Károly Pető
       * Zoltán Szakály
       * Marietta Kiss
       * Virág Ágnes Kiss
