@@ -11,7 +11,7 @@ activities:
       outputs. Discussion with appropriate stakeholders and other experts.
 
 
-      May 21 - 22, 2021
+      May 21, 2021
 
 
       [Programme](https://www.ef.jcu.cz/intranet/dokumenty/pozvanky-na-akce-ef/program.pdf)
