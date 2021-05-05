@@ -15,6 +15,12 @@ activities:
 
 
       [Programme](https://www.ef.jcu.cz/intranet/dokumenty/pozvanky-na-akce-ef/program.pdf)
+
+
+      Link to connect: 
+
+
+      <https://cesnet.zoom.us/j/92630457655?pwd=VHRYZ3ZLTy81Q0IvNHplTjc2YmV4QT09>
     image: /img/headway-f2krf_qfcqw-unsplash.jpg
   - name: 'The common monograph "Are countries of the Visegrad Group (V4) ready for
       the consequences of population aging?" '
