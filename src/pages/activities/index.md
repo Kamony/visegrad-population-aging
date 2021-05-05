@@ -12,6 +12,9 @@ activities:
 
 
       May 21 - 22, 2021
+
+
+      [Programme](https://www.ef.jcu.cz/intranet/dokumenty/pozvanky-na-akce-ef/program.pdf)
     image: /img/headway-f2krf_qfcqw-unsplash.jpg
   - name: 'The common monograph "Are countries of the Visegrad Group (V4) ready for
       the consequences of population aging?" '
