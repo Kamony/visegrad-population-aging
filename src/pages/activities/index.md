@@ -2,13 +2,13 @@
 templateKey: activities-page
 title: Activities
 activities:
-  - name: The international workshop of project partners in the Czech Republic
-      (České Budějovice)
+  - name: |
+      The international online workshop of project partners 
     text: >-
-      The international two-day workshop in Czechia (České Budějovice) with
-      project partners. Comparison of the research, presentation of the research
-      findings, preparation of the planed monograph and other scientific
-      outputs. Discussion with appropriate stakeholders and other experts.
+      The international online workshop with project partners. Comparison of the
+      research, presentation of the research findings, preparation of the planed
+      monograph and other scientific outputs. Discussion with appropriate
+      stakeholders and other experts.
 
 
       May 21, 2021
