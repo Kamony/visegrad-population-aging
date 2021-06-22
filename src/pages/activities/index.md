@@ -5,7 +5,8 @@ activities:
   - name: |
       The international online workshop of project partners 
     text: >-
-      The international online workshop with project partners. Comparison of the
+      The international online workshop with project partners
+      ([record](https://www.youtube.com/watch?v=eqGf0bXXcCI)). Comparison of the
       research, presentation of the research findings, preparation of the planed
       monograph and other scientific outputs. Discussion with appropriate
       stakeholders and other experts.
