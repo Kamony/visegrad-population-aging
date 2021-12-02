@@ -80,7 +80,9 @@ activities:
   - name: The methodical recommendations
     image: /img/obrázek1.png
     text: >-
-      The methodological recommendation is based on:
+      The [methodological
+      recommendation](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Annex5_Methodical_recommendations.pdf)
+      is based on:
 
 
       (a) joint communication with partners,
