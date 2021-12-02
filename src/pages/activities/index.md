@@ -68,8 +68,12 @@ activities:
       CZ](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_CZ.pdf)  [Monograph
       HU](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_HU.pdf)
       [Monograph
-      PL](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_PL.pdf) (English
-      version of monograph is in printed version)
+      PL](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_PL.pdf) 
+
+
+      (English version of monograph is in printed version)
+
+
 
 
       The monograph was created jointly with the involvement of all partners, where after mutual electronic communication (e-mail, Skype) they agreed on the common content and procedure for the processing of individual units.This monograph is intended for a wider audience, but primarily for academics and students of social sciences. Its aim is to contribute to the necessary debate on population ageing.
