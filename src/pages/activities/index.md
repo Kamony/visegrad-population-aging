@@ -63,10 +63,37 @@ activities:
     image: /img/headway-f2krf_qfcqw-unsplash.jpg
   - name: 'The common monograph "Are countries of the Visegrad Group (V4) ready for
       the consequences of population aging?" '
-    text: "The monograph will consist of three parts: partial analysis of the
-      development of the demographic aging process in individual V4 states,
-      including an outline of future development; comparison of the process in
-      V4 states; recommendations for mitigating the consequences of this process
-      in the future."
+    text: >-
+      The monograph was created jointly with the involvement of all partners,
+      where after mutual electronic communication (e-mail, Skype) they agreed on
+      the common content and procedure for the processing of individual
+      units.This monograph is intended for a wider audience, but primarily for
+      academics and students of social sciences. Its aim is to contribute to the
+      necessary debate on population ageing.
+
+
+      The aim of the monograph, which is divided into 7 chapters, is to evaluate the current situation and the causes of demographic ageing of the V4 countries in the broader context of their historical development.
+
+
+      The monograph also includes a questionnaire survey, which was implemented and initiated by the Faculty of Economics of the University of South Bohemia in České Budějovice. The aim of the survey was to find out the opinions of people who deal with issues related to demographic ageing in their daily practice (officials at various levels of state and local government, social workers, health professionals, academics and others). These views on the preparedness of the V4 countries for the consequences of the ageing of their populations have been compared in Chapter 6 of the present monograph.
     image: /img/retrosupply-jlwvautloaq-unsplash.jpg
+  - name: The methodical recommendations
+    image: /img/obrázek1.png
+    text: >-
+      The methodological recommendation is based on:
+
+
+      (a) joint communication with partners,
+
+
+      b) the results of the analyses presented in the joint workshop,
+
+
+      c) the questionnaire survey carried out in all 4 countries.
+
+
+      The full text of the recommendations is attached as Annex 5. We have grouped the recommendations into 8 areas based on the above joint discussions:
+
+
+      SOCIAL SERVICES, HEALTH CARE, SOCIAL ACTIVITIES, EDUCATION, HOUSING, QUALITY OF LIFE, MATERIAL SECURITY, INCLUSION
 ---
