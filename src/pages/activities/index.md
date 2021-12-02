@@ -64,12 +64,15 @@ activities:
   - name: 'The common monograph "Are countries of the Visegrad Group (V4) ready for
       the consequences of population aging?" '
     text: >-
-      The monograph was created jointly with the involvement of all partners,
-      where after mutual electronic communication (e-mail, Skype) they agreed on
-      the common content and procedure for the processing of individual
-      units.This monograph is intended for a wider audience, but primarily for
-      academics and students of social sciences. Its aim is to contribute to the
-      necessary debate on population ageing.
+      [Monograph
+      CZ](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_CZ.pdf)  [Monograph
+      HU](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_HU.pdf)
+      [Monograph
+      PL](https://old.ef.jcu.cz/veda-a-vyzkum/granty/Monograph_PL.pdf) (English
+      version of monograph is in printed version)
+
+
+      The monograph was created jointly with the involvement of all partners, where after mutual electronic communication (e-mail, Skype) they agreed on the common content and procedure for the processing of individual units.This monograph is intended for a wider audience, but primarily for academics and students of social sciences. Its aim is to contribute to the necessary debate on population ageing.
 
 
       The aim of the monograph, which is divided into 7 chapters, is to evaluate the current situation and the causes of demographic ageing of the V4 countries in the broader context of their historical development.
