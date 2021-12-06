@@ -101,7 +101,7 @@ activities:
       c) the questionnaire survey carried out in all 4 countries.
 
 
-      The full text of the recommendations is attached as Annex 5. We have grouped the recommendations into 8 areas based on the above joint discussions:
+      We have grouped the recommendations into 8 areas based on the above joint discussions:
 
 
       SOCIAL SERVICES, HEALTH CARE, SOCIAL ACTIVITIES, EDUCATION, HOUSING, QUALITY OF LIFE, MATERIAL SECURITY, INCLUSION
